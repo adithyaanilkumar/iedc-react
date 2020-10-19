@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/iedc-react/static/css/main.7d21a7d1.chunk.css",
-    "main.js": "/iedc-react/static/js/main.631bfdbf.chunk.js",
-    "main.js.map": "/iedc-react/static/js/main.631bfdbf.chunk.js.map",
-    "runtime-main.js": "/iedc-react/static/js/runtime-main.dfcb7c93.js",
-    "runtime-main.js.map": "/iedc-react/static/js/runtime-main.dfcb7c93.js.map",
-    "static/css/2.36020323.chunk.css": "/iedc-react/static/css/2.36020323.chunk.css",
-    "static/js/2.1edaf733.chunk.js": "/iedc-react/static/js/2.1edaf733.chunk.js",
-    "static/js/2.1edaf733.chunk.js.map": "/iedc-react/static/js/2.1edaf733.chunk.js.map",
+    "main.css": "/iedc-react/static/css/main.0643c64c.chunk.css",
+    "main.js": "/iedc-react/static/js/main.60adc0d3.chunk.js",
+    "main.js.map": "/iedc-react/static/js/main.60adc0d3.chunk.js.map",
+    "runtime-main.js": "/iedc-react/static/js/runtime-main.d709d28b.js",
+    "runtime-main.js.map": "/iedc-react/static/js/runtime-main.d709d28b.js.map",
+    "static/css/2.53159467.chunk.css": "/iedc-react/static/css/2.53159467.chunk.css",
+    "static/js/2.9d8ca308.chunk.js": "/iedc-react/static/js/2.9d8ca308.chunk.js",
+    "static/js/2.9d8ca308.chunk.js.map": "/iedc-react/static/js/2.9d8ca308.chunk.js.map",
     "index.html": "/iedc-react/index.html",
-    "precache-manifest.f531ed3891427abef227a0c232085cd6.js": "/iedc-react/precache-manifest.f531ed3891427abef227a0c232085cd6.js",
+    "precache-manifest.e32f8fff4c7edd5e49a09692841a5f38.js": "/iedc-react/precache-manifest.e32f8fff4c7edd5e49a09692841a5f38.js",
     "service-worker.js": "/iedc-react/service-worker.js",
-    "static/css/2.36020323.chunk.css.map": "/iedc-react/static/css/2.36020323.chunk.css.map",
-    "static/css/main.7d21a7d1.chunk.css.map": "/iedc-react/static/css/main.7d21a7d1.chunk.css.map",
-    "static/js/2.1edaf733.chunk.js.LICENSE.txt": "/iedc-react/static/js/2.1edaf733.chunk.js.LICENSE.txt",
+    "static/css/2.53159467.chunk.css.map": "/iedc-react/static/css/2.53159467.chunk.css.map",
+    "static/css/main.0643c64c.chunk.css.map": "/iedc-react/static/css/main.0643c64c.chunk.css.map",
+    "static/js/2.9d8ca308.chunk.js.LICENSE.txt": "/iedc-react/static/js/2.9d8ca308.chunk.js.LICENSE.txt",
     "static/media/about.png": "/iedc-react/static/media/about.bd21a28c.png",
     "static/media/aditya.jpg": "/iedc-react/static/media/aditya.40b9fdd3.jpg",
     "static/media/alan.jpg": "/iedc-react/static/media/alan.06d2523a.jpg",
@@ -25,8 +25,8 @@
     "static/media/ashmi.jpg": "/iedc-react/static/media/ashmi.3b1f0ea8.jpg",
     "static/media/aswin.jpg": "/iedc-react/static/media/aswin.a8c10ba8.jpg",
     "static/media/hari.jpg": "/iedc-react/static/media/hari.670aa261.jpg",
+    "static/media/help.svg": "/iedc-react/static/media/help.45fe9fca.svg",
     "static/media/help.jpg": "/iedc-react/static/media/help.8b70fc8c.jpg",
-    "static/media/help.svg": "/iedc-react/static/media/help.e3e5595f.svg",
     "static/media/jagath.jpg": "/iedc-react/static/media/jagath.932e8826.jpg",
     "static/media/logo.png": "/iedc-react/static/media/logo.2f3fe1b4.png",
     "static/media/medha.jpg": "/iedc-react/static/media/medha.2d06579b.jpg",
@@ -40,10 +40,10 @@
     "static/media/vivek.jpg": "/iedc-react/static/media/vivek.7cbcccc7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dfcb7c93.js",
-    "static/css/2.36020323.chunk.css",
-    "static/js/2.1edaf733.chunk.js",
-    "static/css/main.7d21a7d1.chunk.css",
-    "static/js/main.631bfdbf.chunk.js"
+    "static/js/runtime-main.d709d28b.js",
+    "static/css/2.53159467.chunk.css",
+    "static/js/2.9d8ca308.chunk.js",
+    "static/css/main.0643c64c.chunk.css",
+    "static/js/main.60adc0d3.chunk.js"
   ]
 }
