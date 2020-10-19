@@ -12,7 +12,7 @@ const About = () => {
       <div className="container">
         <br />
         <h3 className="text-darken-3 center-align" id="top_margin">
-          About IEDC MEC
+          About IEDC Model Engineering College
           </h3>
         <br />
         <div className="row">
